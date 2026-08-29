@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<# Hi, I'm Chandan
+# Hi, I'm Chandan
 
 Backend Developer · Software Engineer · DevOps Enthusiast
 
@@ -31,4 +29,3 @@ I enjoy building reliable backend systems, writing maintainable software, and im
 ---
 
 <sub>Always learning. Always building.</sub>
-
